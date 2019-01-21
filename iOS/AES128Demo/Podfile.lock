@@ -1,0 +1,10 @@
+PODS:
+  - AESCrypt (0.0.1)
+
+DEPENDENCIES:
+  - AESCrypt (~> 0.0.1)
+
+SPEC CHECKSUMS:
+  AESCrypt: 1d89bf8b0789cf274ab2205ea461adbe9321d5f8
+
+COCOAPODS: 0.39.0
